@@ -16,4 +16,4 @@ Radboud University \
 Heyendaalseweg 135 \
 6525 AJ Nijmegen, The Netherlands 
 
-![](../images/animation.gif)
+![](../images/viscous_effect_2D.png)
