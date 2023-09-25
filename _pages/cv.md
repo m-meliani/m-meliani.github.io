@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 ### Education
+
 * Ph.D in Mathematics, Radboud University, The Netherlands, 2024 (expected)
 * M.Sc. in Aerospace Engineering, ISAE-Supaero, France, 2018
 * Advanced Undergraduate Coursework in Mathematics & Physics, Lycée Mohammed V, Morocco, 2012
   
 ### Research Experience 
+
 * Research assistant, KTH Royal Institute of Technology, Sweden, 2019
 	* Visiting researcher (2 months), Univeristy of Eastern Finland, Finland, 2019
 * Research intern, ONERA, France, 2018
