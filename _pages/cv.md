@@ -9,23 +9,19 @@ redirect_from:
 
 Education
 ======
+* Advanced Undergraduate Coursework in Mathematics and Physics, Lycée Mohammed V, Morocco, 2012
 * M.Sc. in Aerospace engineering, ISAE-Supaero, France, 2018
 * Ph.D in Mathematics, Radboud University, The Netherlands, 2024 (expected)
   
-Teaching experience
+Research Experience
 ======
-* Fall 2020: Teaching Assistant for Finite-Element Methods
-  
-* Spring 2021: Teaching Assistant for Numerical Methods for PDEs
+* Research assistant, KTH Royal Institute of Technology, Sweden, 2019
+* Research intern, Univeristy of Michigan, Ann-Arbor, USA, 2018
+* Research intern, ONERA, France, 2018
+* Research intern, IRT Saint-Exupéry, 2017
 
-* Fall 2021: TA coordinator for Linear Algebra
-  
-* Spring 2022: Teaching Assistant for Numerical Methods for PDEs
-  
-* Fall 2022: Teaching Assistant for Finite-Element Methods
-  * Awarded a ``Pluim" as a token of appreciation from the student education board
+Administrative and Organizational Activities
+=====
+* Co-organizer of Mathematics PhD Colloquium in Nijmegen, 2021-2022
+* PhD representative, 2022
 
-* Spring 2023: Teaching Assistant for Numerical Methods for PDEs
-
-
-Full CV available upon request
