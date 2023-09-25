@@ -11,9 +11,9 @@ title                    : "Mostafa Meliani"
 title_separator          : "-"
 name                     : &name "Mostafa Meliani"
 description              : &description "PhD candidate at Radboud University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://m-meliani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "m-meliani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   bio              : "PhD candidate at Radboud University"
   location         : "Nijmegen, the Netherlands"
   employer         :
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.nl/citations?user=2my0vvwAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Mostafa-Meliani"
@@ -247,7 +247,7 @@ defaults:
 
 # Sass/SCSS
 sass:
-  sass_dir: _sass
+  sass_dir: ./_sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
