@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### Preprints
-* M. Meliani and Belkacem Said-Houari: Energy decay of some multi-term nonlocal-in-time Moore--Gibson--Thompson equations [[arXiv](https://arxiv.org/abs/2309.07750)]
+* M. Meliani and B. Said-Houari: Energy decay of some multi-term nonlocal-in-time Moore--Gibson--Thompson equations [[arXiv](https://arxiv.org/abs/2309.07750)]
 * B. Kaltenbacher, M. Meliani, and V. Nikolić: The Kuznetsov and Blackstock equations of nonlinear acoustics with nonlocal-in-time dissipation [[arXiv](https://arxiv.org/abs/2308.10580)]
 * M. Meliani and V. Nikolić: Mixed approximation of nonlinear acoustic equations: Well-posedness and a priori error analysis [[arXiv](https://arxiv.org/abs/2209.02737)]
 * B. Kaltenbacher, M. Meliani, and V. Nikolić: Limiting behavior of quasilinear wave equations with fractional-type dissipation [[arXiv](https://arxiv.org/abs/2206.15245)]
