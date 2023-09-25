@@ -16,4 +16,4 @@ Radboud University \
 Heyendaalseweg 135 \
 6525 AJ Nijmegen, The Netherlands 
 
-![](animation.gif)
+![](../images/animation.gif)
