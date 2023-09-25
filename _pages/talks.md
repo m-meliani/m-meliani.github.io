@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-#### Selected talks
+### Selected talks
 
 * Conference on Mathematics of Wave Phenomena 2022: *Shape sensitivity analysis for optimization problems in nonlinear acoustics*, Minisymposium: Analysis and Numerics of Nonlinear Acoustic Waves in Relaxing Media, Germany, February 2022;
 * WAVES 2022: *Analysis of shape optimization problems for the Kuznetsov equation*, Minisymposium: New trends in nonlinear acoustics and related phenomena, France, July 2022.

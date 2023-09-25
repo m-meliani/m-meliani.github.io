@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-#### Teaching Experience
+### Teaching Experience
 
 * Fall 2020: Teaching Assistant for Finite-Element Methods
   
@@ -20,7 +20,7 @@ author_profile: true
 
 * Spring 2023: Teaching Assistant for Numerical Methods for PDEs
 
-#### Supervision
+### Supervision
 
 * Co-supervised the Bachelor thesis work of Simon Geritz, 2022
 

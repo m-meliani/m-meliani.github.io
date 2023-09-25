@@ -7,21 +7,19 @@ redirect_from:
   - /resume
 ---
 
-#### Education
-
-* Advanced Undergraduate Coursework in Mathematics and Physics, Lycée Mohammed V, Morocco, 2012
-* M.Sc. in Aerospace Engineering, ISAE-Supaero, France, 2018
+### Education
 * Ph.D in Mathematics, Radboud University, The Netherlands, 2024 (expected)
+* M.Sc. in Aerospace Engineering, ISAE-Supaero, France, 2018
+* Advanced Undergraduate Coursework in Mathematics & Physics, Lycée Mohammed V, Morocco, 2012
   
-#### Research Experience 
-
+### Research Experience 
 * Research assistant, KTH Royal Institute of Technology, Sweden, 2019
 	* Visiting researcher (2 months), Univeristy of Eastern Finland, Finland, 2019
 * Research intern, ONERA, France, 2018
 	* Visiting researcher (3 months), Univeristy of Michigan, USA, 2018
 * Research intern, IRT Saint-Exupéry, France 2017
 
-#### Administrative and Organizational Activities
+### Administrative and Organizational Activities
 
 * Co-organizer of Mathematics PhD Colloquium in Nijmegen, 2021-2022
 * PhD representative at the Department of Mathematics in Nijmegen, 2022
