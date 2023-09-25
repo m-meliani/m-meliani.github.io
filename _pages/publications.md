@@ -15,4 +15,4 @@ author_profile: true
 2.  M. Meliani and V. Nikolić: Analysis of General Shape Optimization Problems in Nonlinear Acoustics, [Applied Mathematics & Optimization](https://doi.org/10.1007/s00245-022-09906-8), 86, 2022. [[arXiv](https://arxiv.org/abs/2108.08652)]
  {: reversed="reversed"}
  
-![](animation.gif)
+
