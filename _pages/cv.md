@@ -10,8 +10,8 @@ redirect_from:
 ### Education
 
 * Ph.D in Mathematics, Radboud University, The Netherlands, 2024 (expected)
-* M.Sc. in Aerospace Engineering, ISAE-Supaero, France, 2018
-* Advanced Undergraduate Coursework in Mathematics & Physics, Lycée Mohammed V, Morocco, 2012
+* M.Sc in Aerospace Engineering, ISAE-Supaero, France, 2018
+* Advanced Undergraduate Coursework in Mathematics & Physics, Lycée Mohammed V, Morocco, 2014
   
 ### Research Experience 
 
