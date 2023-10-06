@@ -27,3 +27,4 @@ redirect_from:
 * PhD representative at the Department of Mathematics in Nijmegen, 2022
 * Co-organizer of exhibitions “Celebrating Women in Mathematics” supported by [Platform Wiskunde Nederland](https://platformwiskunde.nl/wp-content/uploads/2022/09/WIM_report.pdf), May and October 2022 
 
+A complete CV is available upon request.
