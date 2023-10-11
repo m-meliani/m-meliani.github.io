@@ -29,6 +29,6 @@ redirect_from:
 * Co-organizer of exhibitions “Celebrating Women in Mathematics” supported by [Platform Wiskunde Nederland](https://platformwiskunde.nl/wp-content/uploads/2022/09/WIM_report.pdf), May and October 2022 
 
 ### Honors
-* Selected to participate in the 9<sup>th</sup> Heidelberg Laureate Forum, September 2022;
+* Selected to participate in the 9<sup>th</sup> Heidelberg Laureate Forum, September 2022
 
 A complete CV is available upon request.
