@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Teaching Assistant Experience
-During my time as a PhD candidate at Radboud University, I had the oppotunity to be a teaching assistant for the following course:
+During my time as a PhD candidate at Radboud University, I had the oppotunity to be a teaching assistant for the following courses:
 * Fall 2020: Teaching Assistant for Finite-Element Methods
 * Spring 2021: Teaching Assistant for Numerical Methods for PDEs
 * Fall 2021: TA coordinator for Linear Algebra
