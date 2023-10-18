@@ -23,10 +23,9 @@ redirect_from:
 
 ### Administrative and Organizational Activities
 
-* Co-organizer of Mathematics [PhD Colloquium](https://tlundemo.com/phdcolloquium.html) in Nijmegen, 2021-2022
 * PhD representative at the Department of Mathematics in Nijmegen, 2022
 * Member of the advisory board of Radboud's Department of Mathematics, 2022
-* Co-organizer of exhibitions “Celebrating Women in Mathematics” supported by [Platform Wiskunde Nederland](https://platformwiskunde.nl/wp-content/uploads/2022/09/WIM_report.pdf), May and October 2022 
+* Co-organizer (together with Vanja Nikoli&#263;, Laura Scarabosia, and Wouter van Harten) of exhibitions “Celebrating Women in Mathematics” supported by [Platform Wiskunde Nederland](https://platformwiskunde.nl/wp-content/uploads/2022/09/WIM_report.pdf), May and October 2022 
 
 ### Honors
 * Selected to participate in the 9<sup>th</sup> Heidelberg Laureate Forum, September 2022
