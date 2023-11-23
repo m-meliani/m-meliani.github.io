@@ -10,11 +10,11 @@ On this page, I intend to share primarily non-academic content
 ### Kicker Elo project
 This Kicker elo project started when, at the math department in Nijmegen, PhD students had access to a kicker table during the breaks. To have a bit of friendly competition I created an elo system for the players and have maintained since Spring 2023. The mathematics of it is very much copied from the original system developed by Arpad Elo for chess with a small modification intended to adapt it for the 2v2 format of kicker. That is the elo of a team is the arithmetic mean of its two players.
 
-<img src="../images/GUI_Kicker_2.png" alt="drawing" width="500"/>
+<img src="../images/GUI_Kicker_2.png" alt="KickerEloGUI" width="500" class="center"/>
 
-Here is a snapshot of the standing on Nov 23rd, 2023. The names of the palyers have been hidden. 
+Here is a snapshot of the standing on Nov 23rd, 2023 (the names of the players have been replaced with a number)
 
-<img src="../images/current_standings.png" alt="drawing" width="800"/>
+<img src="../images/current_standings.png" alt="Standings" width="700" class="center"/>
 
-Players can then view their progression relative to that of other players from the mathematics department. 
+Players can then view their progression relative to that of other players from the mathematics department. The ranked first player gets bragging rights!
 
