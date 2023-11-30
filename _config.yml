@@ -87,9 +87,12 @@ author:
   googlescholar    : "https://scholar.google.nl/citations?user=2my0vvwAAAAJ&hl=en"
   email            : "m.meliani@math.ru.nl"
   researchgate     : "https://www.researchgate.net/profile/Mostafa-Meliani"
+  
   orcid            : "https://orcid.org/0000-0002-8172-0055"
   links:
-  	- https://arxiv.org/search/?searchtype=author&query=Meliani%2C+M
+    - label : "arXiv"
+    - icon : "far fa-newspaper"
+    - url : https://arxiv.org/search/?searchtype=author&query=Meliani%2C+M
 		
 
 # Reading Files
