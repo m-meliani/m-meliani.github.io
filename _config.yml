@@ -93,7 +93,6 @@ author:
     - label: "arXiv"
     - icon: "far fa-newspaper"
     - url: "https://arxiv.org/search/?searchtype=author&query=Meliani%2C+M"
-		
 
 # Reading Files
 include:
