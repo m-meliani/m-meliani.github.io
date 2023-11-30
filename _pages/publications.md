@@ -9,7 +9,7 @@ author_profile: true
 	<hr>
 * B. Kaltenbacher, M. Meliani, and V. Nikolić: The Kuznetsov and Blackstock equations of nonlinear acoustics with nonlocal-in-time dissipation [[arXiv](https://arxiv.org/abs/2308.10580)]
 	<hr>
-* M. Meliani and V. Nikolić: Mixed approximation of nonlinear acoustic equations: Well-posedness and a priori error analysis [[arXiv](https://arxiv.org/abs/2209.02737)]
+* M. Meliani and V. Nikolić: Mixed approximation of nonlinear acoustic equations: Well-posedness and a priori error analysis [[Code](https://github.com/m-meliani/mFEM Kuznetsov)][[arXiv](https://arxiv.org/abs/2209.02737)]
 	<hr>
 * B. Kaltenbacher, M. Meliani, and V. Nikolić: Limiting behavior of quasilinear wave equations with fractional-type dissipation [[arXiv](https://arxiv.org/abs/2206.15245)]
 
