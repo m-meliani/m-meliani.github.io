@@ -90,9 +90,9 @@ author:
   
   orcid            : "https://orcid.org/0000-0002-8172-0055"
   links:
-    - label : "arXiv"
-    - icon : "far fa-newspaper"
-    - url : https://arxiv.org/search/?searchtype=author&query=Meliani%2C+M
+    - label: "arXiv"
+    - icon: "far fa-newspaper"
+    - url: https://arxiv.org/search/?searchtype=author&query=Meliani%2C+M
 		
 
 # Reading Files
