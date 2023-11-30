@@ -84,15 +84,39 @@ author:
   avatar           : "Cropped_profile.JPG"
   bio              : "PhD candidate at Radboud University"
   location         : "Nijmegen, The Netherlands"
+  employer         :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.nl/citations?user=2my0vvwAAAAJ&hl=en"
   email            : "m.meliani@math.ru.nl"
   researchgate     : "https://www.researchgate.net/profile/Mostafa-Meliani"
-  
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : #"m-meliani"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Meliani%2C+M"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
   orcid            : "https://orcid.org/0000-0002-8172-0055"
-  links:
-    - label: "arXiv"
-    - icon: "far fa-newspaper"
-    - url: "https://arxiv.org/search/?searchtype=author&query=Meliani%2C+M"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+#  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 # Reading Files
 include:
