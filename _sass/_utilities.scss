@@ -181,6 +181,11 @@ body:hover .visually-hidden button {
 
 /* social icons*/
 
+.social-icons {
+  .fa {
+    color: $twitter-color;
+  }
+
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;
