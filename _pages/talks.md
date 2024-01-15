@@ -15,4 +15,6 @@ author_profile: true
 <hr>
 * 3rd Alps-Adriatic Inverse Problems Workshop: *Wave phenomena governed by fractional Moore-Gibson-Thompson equations*, Austria, July 2023
 <hr>
+* GAMM 2024: *Parameter-asymptotic behavior of integro-differential models of nonlinear acoustics*, Minisymposium: Applied Analysis, Germany, March 2024
+<hr>
 * IPMS 2024: *Analysis of wave equations describing ultrasound propagation in complex media*, Minisymposium: Applied Inverse Problems and Partial Differential Equations, Malta, May 2024
