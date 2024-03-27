@@ -16,5 +16,5 @@ During my time as a PhD candidate at Radboud University, I had the oppotunity to
 * Spring 2023: TA for bachelor's course Numerical Methods for PDEs
 
 ### Supervision
-* Co-supervised (with [Dr. Vanja Nikolić](https://vanjanikolic.net)) the bachelor thesis work of Simon Geritz, 2022
+* Co-supervised (with [Dr. Vanja Nikolić](https://vanjanikolic.net)) the bachelor thesis work of Simon Geritz "Fluid flow models based on the steady-state Navier-Stokes equation", 2022
 
