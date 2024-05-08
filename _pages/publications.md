@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ### Preprints
+* S. Gómez and M. Meliani: Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation [[arXiv](https://arxiv.org/abs/2405.03535)]
+	<hr>
 * M. Meliani and B. Said-Houari: Energy decay of some multi-term nonlocal-in-time Moore--Gibson--Thompson equations [[arXiv](https://arxiv.org/abs/2309.07750)]
 	<hr>
  
