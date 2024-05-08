@@ -11,7 +11,7 @@ author_profile: true
 	<hr>
  
 ### Journal Papers
-5. B. Kaltenbacher, M. Meliani, and V. Nikolić: Limiting behavior of quasilinear wave equations with fractional-type dissipation, to appear in [Advanced Nonlinear Studies](https://www.degruyter.com/journal/key/ans/html). See also [[arXiv](https://arxiv.org/abs/2206.15245)]
+5. B. Kaltenbacher, M. Meliani, and V. Nikolić: Limiting behavior of quasilinear wave equations with fractional-type dissipation, [Advanced Nonlinear Studies](10.1515/ans-2023-0139). [[arXiv](https://arxiv.org/abs/2206.15245)]
 	<hr>
 4. B. Kaltenbacher, M. Meliani, and V. Nikolić: The Kuznetsov and Blackstock equations of nonlinear acoustics with nonlocal-in-time dissipation, [Applied Mathematics & Optimization](https://doi.org/10.1007/s00245-024-10130-9),  89(63), 2024. [[arXiv](https://arxiv.org/abs/2308.10580)]
 	<hr>
