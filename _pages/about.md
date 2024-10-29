@@ -13,6 +13,5 @@ I am a postdoctoral researcher at the Department of Evolution Differential Equat
 * [Department of Evolution Differential Equations -- Institute of Mathematics](https://www.math.cas.cz/index.php/department/detail/15)  
 Czech Academy of Sciences \
  Žitná 25, \
- 115 67   Praha 1, Czech Republic \
-
+ 115 67   Praha 1, Czech Republic 
 ![](../images/viscous_effect_2D.png)
