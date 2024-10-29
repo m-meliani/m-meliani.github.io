@@ -5,11 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ### Preprints
-* S. Gómez and M. Meliani: Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation [[arXiv](https://arxiv.org/abs/2405.03535)]
-  
-  	<hr>
 * M. Meliani, B. Said-Houari: Well-posedness and global extensibility criteria for time-fractionally damped Jordan--Moore--Gibson--Thompson equation [[arXiv](https://arxiv.org/abs/2410.17826)]
-	<hr>
+  	<hr>
+* S. Gómez and M. Meliani: Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation [[arXiv](https://arxiv.org/abs/2405.03535)]
+
 
  
 ### Journal Papers
