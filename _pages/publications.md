@@ -7,11 +7,13 @@ author_profile: true
 ### Preprints
 * M. Meliani, B. Said-Houari: Well-posedness and global extensibility criteria for time-fractionally damped Jordan--Moore--Gibson--Thompson equation [[arXiv](https://arxiv.org/abs/2410.17826)]
   	<hr>
-* S. Gómez and M. Meliani: Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation [[arXiv](https://arxiv.org/abs/2405.03535)]
+
 
 
  
 ### Journal Papers
+7. S. Gómez and M. Meliani: Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation, to appear in [ESAIM: M2AN](https://www.esaim-m2an.org/). See also [[arXiv](https://arxiv.org/abs/2405.03535)]
+  <hr>
 6. M. Meliani and B. Said-Houari: Energy decay of some multi-term nonlocal-in-time Moore--Gibson--Thompson equations, [Journal of Mathematical Analysis and Applications](https://doi.org/10.1016/j.jmaa.2024.128791), 542 (2), 128791. [[arXiv](https://arxiv.org/abs/2309.07750)]
 	<hr>
 5. B. Kaltenbacher, M. Meliani, and V. Nikolić: Limiting behavior of quasilinear wave equations with fractional-type dissipation, [Advanced Nonlinear Studies](https://doi.org/10.1515/ans-2023-0139), 24(3), 2024, pp. 748-774. [[arXiv](https://arxiv.org/abs/2206.15245)]
