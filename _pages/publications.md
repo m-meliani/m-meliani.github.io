@@ -9,11 +9,11 @@ author_profile: true
 
  
 ### Journal Papers
-7. S. Gómez and M. Meliani: Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation, to appear in [ESAIM: M2AN](https://www.esaim-m2an.org/). See also [[arXiv](https://arxiv.org/abs/2405.03535)]
+7. S. Gómez and M. Meliani: Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation, [ESAIM: Mathematical Modelling and Numerical Analysis](https://www.esaim-m2an.org/), 59(2), 613-641, 2025. [[arXiv](https://arxiv.org/abs/2405.03535)]
 	<hr>
-6. M. Meliani and B. Said-Houari: Energy decay of some multi-term nonlocal-in-time Moore--Gibson--Thompson equations, [Journal of Mathematical Analysis and Applications](https://doi.org/10.1016/j.jmaa.2024.128791), 542 (2), 128791. [[arXiv](https://arxiv.org/abs/2309.07750)]
+6. M. Meliani and B. Said-Houari: Energy decay of some multi-term nonlocal-in-time Moore--Gibson--Thompson equations, [Journal of Mathematical Analysis and Applications](https://doi.org/10.1016/j.jmaa.2024.128791), 542 (2), 128791, 2025. [[arXiv](https://arxiv.org/abs/2309.07750)]
 	<hr>
-5. B. Kaltenbacher, M. Meliani, and V. Nikolić: Limiting behavior of quasilinear wave equations with fractional-type dissipation, [Advanced Nonlinear Studies](https://doi.org/10.1515/ans-2023-0139), 24(3), 2024, pp. 748-774. [[arXiv](https://arxiv.org/abs/2206.15245)]
+5. B. Kaltenbacher, M. Meliani, and V. Nikolić: Limiting behavior of quasilinear wave equations with fractional-type dissipation, [Advanced Nonlinear Studies](https://doi.org/10.1515/ans-2023-0139), 24(3), pp. 748-774, 2024. [[arXiv](https://arxiv.org/abs/2206.15245)]
 	<hr>
 4. B. Kaltenbacher, M. Meliani, and V. Nikolić: The Kuznetsov and Blackstock equations of nonlinear acoustics with nonlocal-in-time dissipation, [Applied Mathematics & Optimization](https://doi.org/10.1007/s00245-024-10130-9),  89(63), 2024. [[arXiv](https://arxiv.org/abs/2308.10580)]
 	<hr>
