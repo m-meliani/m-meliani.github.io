@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### Preprints
+* M. Meliani: $L^p-L^q$ existence for the open compressible MHD system [[arXiv](https://arxiv.org/abs/2502.18164)]
 * M. Meliani, B. Said-Houari: Well-posedness and global extensibility criteria for time-fractionally damped Jordan--Moore--Gibson--Thompson equation [[arXiv](https://arxiv.org/abs/2410.17826)]
 
  
