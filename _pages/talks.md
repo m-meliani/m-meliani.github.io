@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ### Selected talks
-* &Ouml;MG-DMV Meeting: TBD, Austria, September, 2025 
+* &Ouml;MG-DMV Meeting: *On strong solutions to some open fluid systems*, Austria, September, 2025
+<hr>
+* Lothar Collatz Seminar: *Local and global strong solutions to the Navier-Stokes system with general Dirichlet boundary conditions*, Germany, 2025
 <hr>
 * IPMS: *Analysis of wave equations describing ultrasound propagation in complex media*, Minisymposium: Applied Inverse Problems and Partial Differential Equations, Malta, May 2024
 <hr>
