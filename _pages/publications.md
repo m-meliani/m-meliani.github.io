@@ -8,9 +8,9 @@ author_profile: true
 * M. Meliani: $L^p-L^q$ existence for the open compressible MHD system [[arXiv](https://arxiv.org/abs/2502.18164)]
  
 ### Journal Papers
-8. M. Meliani, B. Said-Houari: Well-posedness and global extensibility criteria for time-fractionally damped Jordan--Moore--Gibson--Thompson equation, to appear in [[Nonlinear Differential Equations and Applications NoDEA](https://link.springer.com/journal/30)]. See also [[arXiv](https://arxiv.org/abs/2410.17826)]
+8. M. Meliani, B. Said-Houari: Well-posedness and global extensibility criteria for time-fractionally damped Jordan--Moore--Gibson--Thompson equation, to appear in [Nonlinear Differential Equations and Applications NoDEA](https://doi.org/10.1007/s00030-025-01084-0), 32(5), 2025. [[arXiv](https://arxiv.org/abs/2410.17826)]
 	<hr>
-7. S. Gómez and M. Meliani: Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation, [ESAIM: Mathematical Modelling and Numerical Analysis](https://doi.org/10.1051/m2an/2024085 ), 59(2), 2025. [[arXiv](https://arxiv.org/abs/2405.03535)]
+7. S. Gómez and M. Meliani: Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation, [ESAIM: Mathematical Modelling and Numerical Analysis](https://doi.org/10.1051/m2an/2024085), 59(2), 2025. [[arXiv](https://arxiv.org/abs/2405.03535)]
 	<hr>
 6. M. Meliani and B. Said-Houari: Energy decay of some multi-term nonlocal-in-time Moore--Gibson--Thompson equations, [Journal of Mathematical Analysis and Applications](https://doi.org/10.1016/j.jmaa.2024.128791), 542(2), 2025. [[arXiv](https://arxiv.org/abs/2309.07750)]
 	<hr>
