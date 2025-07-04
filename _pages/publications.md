@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### Preprints
+* M. Meliani, B. Said-Houari:  	Global existence for a fractionally damped nonlinear Jordan--Moore--Gibson--Thompson equation [[arXiv](https://arxiv.org/abs/2507.01538)]
 * M. Meliani: $L^p-L^q$ existence for the open compressible MHD system [[arXiv](https://arxiv.org/abs/2502.18164)]
  
 ### Journal Papers
