@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Selected talks
-* &Ouml;ACOMEN: *On the existence of strong solutions to a heat-conducting fluid system with general Dirichlet boundary conditions*, Ghent, September, 2025
+* ACOMEN: *On the existence of strong solutions to a heat-conducting fluid system with general Dirichlet boundary conditions*, Ghent, September, 2025
 <hr>
 * &Ouml;MG-DMV Meeting: *On strong solutions to some open fluid systems*, Austria, September, 2025
 <hr>
