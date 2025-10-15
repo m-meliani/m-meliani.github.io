@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About me 
-I am a postdoctoral researcher at the Department of Evolution Differential Equation of the Institute of Mathematics of the Czech Academy of Sciences in Prague. My Postdoc advisor is [Prof. Eduard Feireisl](https://www.math.cas.cz/index.php/members/researcher/37). I obtained my PhD working in the field of evolution equations for acoustics under the supervision of [Dr. Vanja Nikolić](https://vanjanikolic.net). 
+I am currently a Research Associate at the department of Mathematical Sciences of the University of Bath working on ERC project PSINumScat with [Prof. Euan Spence](https://people.bath.ac.uk/eas25/). I was previously a postdoctoral researcher at the Institute of Mathematics of the Czech Academy of Sciences with [Prof. Eduard Feireisl](https://www.math.cas.cz/index.php/members/researcher/37). I obtained my PhD working in the field of nonlinear evolution equations for acoustics under the supervision of [Dr. Vanja Nikolić](https://vanjanikolic.net). 
 
 ### Research interests
 * Analysis and simulation of nonlinear/nonlocal-in-time wave and fluid equations.
@@ -15,8 +15,8 @@ I am a postdoctoral researcher at the Department of Evolution Differential Equat
 * PDE-constrained shape optimization
 
 ### Contact details
-* [Department of Evolution Differential Equations -- Institute of Mathematics](https://www.math.cas.cz/index.php/department/detail/15)  
-Czech Academy of Sciences \
- Žitná 25, \
- 115 67   Praha 1, Czech Republic 
+* [Department of Mathematical Sciences](https://researchportal.bath.ac.uk/en/persons/mostafa-meliani)  
+University of Bath \
+ Bath, BA2 7AY\
+UK
 ![](../images/viscous_effect_2D.png)
