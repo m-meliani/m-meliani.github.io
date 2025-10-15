@@ -12,8 +12,12 @@ redirect_from:
 * Ph.D in Mathematics, Radboud University, The Netherlands, 2024
 * M.Sc in Aerospace Engineering, ISAE-Supaero, France, 2018
 * Advanced Undergraduate Coursework in Mathematics & Physics, Lycée Mohammed V, Morocco, 2014
+
+### Research Positions
+* Research Associate (Postdoc) at the Department of Mathematical Sciences, Bath, UK, 2025 --
+* Postdoctoral researcher at the Institute of Mathematics of the Czech Academy of Sciences, Prague, Czech Republic, 2024-2025
   
-### Research Experience 
+### Previous Research Experience (prior to PhD)
 
 * Research assistant, KTH Royal Institute of Technology, Sweden, 2019
 	* Visiting researcher (2 months), Univeristy of Eastern Finland, Finland, 2019
