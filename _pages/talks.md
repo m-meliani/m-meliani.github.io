@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ### Selected talks
-* ACOMEN: *On the existence of strong solutions to a heat-conducting fluid system with general Dirichlet boundary conditions*, Belgieum, September, 2025
+* Bath Analysis Seminar: *Global solutions to a time-fractional nonlinear acoustics model*, Bath, November, 2025
+<hr>
+* ACOMEN: *On the existence of strong solutions to a heat-conducting fluid system with general Dirichlet boundary conditions*, Belgium, September, 2025
 <hr>
 * &Ouml;MG-DMV Meeting: *On strong solutions to some open fluid systems*, Austria, September, 2025
 <hr>
