@@ -6,11 +6,12 @@ author_profile: true
 ---
 ### Preprints
 * A. Abbatiello and M. Meliani: Blow-up criterion for the compressible Navier--Stokes system with inflow-outflow boundary conditions [[arXiv](https://arxiv.org/abs/2512.06150)]
-* M. Meliani and B. Said-Houari: Global existence for a fractionally damped nonlinear Jordan--Moore--Gibson--Thompson equation [[arXiv](https://arxiv.org/abs/2507.01538)]
 * M. Meliani: $L^p-L^q$ existence for the open compressible MHD system [[arXiv](https://arxiv.org/abs/2502.18164)]
  
 ### Journal Papers
-8. M. Meliani and B. Said-Houari: Well-posedness and global extensibility criteria for time-fractionally damped Jordan--Moore--Gibson--Thompson equation, to appear in [Nonlinear Differential Equations and Applications NoDEA](https://doi.org/10.1007/s00030-025-01084-0), 32(5), 2025. [[arXiv](https://arxiv.org/abs/2410.17826)]
+9. M. Meliani and B. Said-Houari: Global existence for a fractionally damped nonlinear Jordan--Moore--Gibson--Thompson equation. To be published in [[Asymptotic Analysis](https://journals.sagepub.com/home/asy)]. See [[arXiv](https://arxiv.org/abs/2507.01538)]
+<hr>
+8. M. Meliani and B. Said-Houari: Well-posedness and global extensibility criteria for time-fractionally damped Jordan--Moore--Gibson--Thompson equation, [Nonlinear Differential Equations and Applications NoDEA](https://doi.org/10.1007/s00030-025-01084-0), 32(5), 2025. [[arXiv](https://arxiv.org/abs/2410.17826)]
 	<hr>
 7. S. Gómez and M. Meliani: Asymptotic-preserving hybridizable discontinuous Galerkin method for the Westervelt quasilinear wave equation, [ESAIM: Mathematical Modelling and Numerical Analysis](https://doi.org/10.1051/m2an/2024085), 59(2), 2025. [[arXiv](https://arxiv.org/abs/2405.03535)]
 	<hr>
