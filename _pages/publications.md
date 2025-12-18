@@ -9,7 +9,7 @@ author_profile: true
 * M. Meliani: $L^p-L^q$ existence for the open compressible MHD system [[arXiv](https://arxiv.org/abs/2502.18164)]
  
 ### Journal Papers
-9. M. Meliani and B. Said-Houari: Global existence for a fractionally damped nonlinear Jordan--Moore--Gibson--Thompson equation. To be published in [[Asymptotic Analysis](https://journals.sagepub.com/home/asy)]. See [[arXiv](https://arxiv.org/abs/2507.01538)]
+9. M. Meliani and B. Said-Houari: Global existence for a fractionally damped nonlinear Jordan--Moore--Gibson--Thompson equation. To be published in [Asymptotic Analysis](https://journals.sagepub.com/home/asy). See [[arXiv](https://arxiv.org/abs/2507.01538)]
 <hr>
 8. M. Meliani and B. Said-Houari: Well-posedness and global extensibility criteria for time-fractionally damped Jordan--Moore--Gibson--Thompson equation, [Nonlinear Differential Equations and Applications NoDEA](https://doi.org/10.1007/s00030-025-01084-0), 32(5), 2025. [[arXiv](https://arxiv.org/abs/2410.17826)]
 	<hr>
