@@ -8,7 +8,7 @@ author_profile: true
 * A. Abbatiello and M. Meliani: Blow-up criterion for the compressible Navier--Stokes system with inflow-outflow boundary conditions [[arXiv](https://arxiv.org/abs/2512.06150)]
   
 ### Journal Papers 
-10. M. Meliani: $L^p-L^q$ existence for the open compressible MHD system. To be published in [Nonlinear Analysis]([https://journals.sagepub.com/home/asy](https://www.sciencedirect.com/journal/nonlinear-analysis)). See also [[arXiv](https://arxiv.org/abs/2502.18164)]
+10. M. Meliani: $L^p-L^q$ existence for the open compressible MHD system, [Nonlinear Analysis](https://doi.org/10.1016/j.na.2026.114057), 267, 2026. [[arXiv](https://arxiv.org/abs/2502.18164)]
 	<hr>
 9. M. Meliani and B. Said-Houari: Global existence for a fractionally damped nonlinear Jordan--Moore--Gibson--Thompson equation. To be published in [Asymptotic Analysis](https://journals.sagepub.com/home/asy). See also [[arXiv](https://arxiv.org/abs/2507.01538)]
 	<hr>
