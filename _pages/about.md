@@ -11,7 +11,7 @@ I am currently a Research Associate at the Department of Mathematical Sciences o
 
 ### Research interests
 * Analysis and simulation of nonlinear/nonlocal-in-time wave and fluid equations.
-* Aymptotic and long-term behavior of nonlinear PDEs.
+* Asymptotic and long-term behavior of nonlinear PDEs.
 * PDE-constrained shape optimization
 
 ### Contact details
