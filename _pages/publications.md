@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### Preprints
-
+* P. Lehner and M. Meliani: Well-posedness of a first-order formulation for fractionally damped nonlinear acoustics [[arXiv](https://arxiv.org/abs/2606.00899)]
   
 ### Journal Papers 
 11. A. Abbatiello and M. Meliani: Blow-up criterion for the compressible Navier--Stokes system with inflow-outflow boundary conditions, to appear in [Nonlinear Differential Equations and Applications NoDEA](https://link.springer.com/journal/30). See also [[arXiv](https://arxiv.org/abs/2512.06150)]
