@@ -12,7 +12,8 @@ I am currently a Research Associate at the Department of Mathematical Sciences o
 ### Research interests
 * Analysis and simulation of nonlinear/nonlocal-in-time wave and fluid equations.
 * Asymptotic and long-term behavior of nonlinear PDEs.
-* PDE-constrained shape optimization
+* Numerical analysis of high-frequency wave problems.
+* PDE-constrained shape optimization.
 
 ### Contact details
 * [Department of Mathematical Sciences](https://researchportal.bath.ac.uk/en/persons/mostafa-meliani)  
