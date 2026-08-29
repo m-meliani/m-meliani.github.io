@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ### Selected talks
+* Wave-Ned 2026: *Weakening the regularity assumptions under which the $hp$-FEM for Helmholtz is pollution free*, Minisymposium: Frequency-domain wave problems, Netherlands, August, 2026
+<hr>
+* Wave-Ned 2026: *Fractional damping is strong enough to ensure global existence for a nonlinear JMGT model*, Minisymposium: Inverse Problems for Nonlinear or Nonlocal Wave Models, Netherlands, August, 2026
+<hr>
+* Waves 2026: *The $hp$-FEM does not suffer from the pollution effect for piecewise-smooth Helmholtz problems with Gevrey regularity at boundaries*, Minisymposium:  Helmholtz, Canada, June, 2026
+<hr>
+* Bath Numerical Analysis Seminar: * Wavenumber-robust approximation for the Helmholtz equation *, Bath, April, 2026
+<hr>
 * Bath Analysis Seminar: *Global solutions to a time-fractional nonlinear acoustics model*, Bath, November, 2025
 <hr>
 * ACOMEN: *On the existence of strong solutions to a heat-conducting fluid system with general Dirichlet boundary conditions*, Belgium, September, 2025
