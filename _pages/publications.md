@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 ### Preprints
+* J. Galkowski, M. Meliani, and E. Spence: The $hp$-FEM does not suffer from the pollution effect for piecewise-smooth Helmholtz problems with Gevrey regularity at boundaries [[arXiv](https://arxiv.org/abs/2607.16073)]
 * P. Lehner and M. Meliani: Well-posedness of a first-order formulation for fractionally damped nonlinear acoustics [[arXiv](https://arxiv.org/abs/2606.00899)]
   
 ### Journal Papers 
-11. A. Abbatiello and M. Meliani: Blow-up criterion for the compressible Navier--Stokes system with inflow-outflow boundary conditions, to appear in [Nonlinear Differential Equations and Applications NoDEA](https://link.springer.com/journal/30). See also [[arXiv](https://arxiv.org/abs/2512.06150)]
+11. A. Abbatiello and M. Meliani: Blow-up criterion for the compressible Navier--Stokes system with inflow-outflow boundary conditions, to appear in [Nonlinear Differential Equations and Applications NoDEA](https://doi.org/10.1007/s00030-026-01235-x). See also [[arXiv](https://arxiv.org/abs/2512.06150)]
 	<hr>
 10. M. Meliani: $L^p-L^q$ existence for the open compressible MHD system, [Nonlinear Analysis](https://doi.org/10.1016/j.na.2026.114057), 267, 2026. [[arXiv](https://arxiv.org/abs/2502.18164)]
 	<hr>
