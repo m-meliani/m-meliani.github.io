@@ -12,7 +12,7 @@ author_profile: true
 <hr>
 * Waves 2026: *The $hp$-FEM does not suffer from the pollution effect for piecewise-smooth Helmholtz problems with Gevrey regularity at boundaries*, Minisymposium:  Helmholtz, Canada, June, 2026
 <hr>
-* Bath Numerical Analysis Seminar: * Wavenumber-robust approximation for the Helmholtz equation *, Bath, April, 2026
+* Bath Numerical Analysis Seminar: *Wavenumber-robust approximation for the Helmholtz equation*, Bath, April, 2026
 <hr>
 * Bath Analysis Seminar: *Global solutions to a time-fractional nonlinear acoustics model*, Bath, November, 2025
 <hr>
