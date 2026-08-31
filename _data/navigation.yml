@@ -16,8 +16,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Seminars"
-    url: /seminars/
+#  - title: "Seminars"
+#    url: /seminars/
 
 #  - title: "@Misc"
 #    url: /miscellaneous/
