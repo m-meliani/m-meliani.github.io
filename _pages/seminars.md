@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /seminars/
 author_profile: true
+published: false
 ---
 ### PhD Colloquium
 * I co-organized with [Leo](https://www.researchgate.net/profile/Leonardo-Garcia-Heveling) and [Tommy](https://tlundemo.com) a Mathematics' [PhD Colloquium](https://tlundemo.com/phdcolloquium.html) in Nijmegen, 2021-2022
