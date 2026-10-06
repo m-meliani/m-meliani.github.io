@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Course Instructor Experience
 Primary instructor responsible for lectures, exercise sheets, and examinations, under the supervision of the course head.
-* Fall 2026: Numerical Solutions of Elliptic PDEs
+* Fall 2026: Numerical Solution of Elliptic PDEs
   
 ### Teaching Assistant Experience
 During my time as a PhD candidate at Radboud University, I had the opportunity to be a Teaching Assistant (TA) for the following courses:
